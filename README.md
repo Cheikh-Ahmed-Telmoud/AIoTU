@@ -50,3 +50,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 [![Screenshot](images/USSD7.PNG)]
 [![Screenshot](images/USSD8.PNG)] -->
 
+
+## SaaS roadmap
+
+A detailed SaaS transformation blueprint is available in [`docs/SAAS_TRANSFORMATION_PLAN.md`](docs/SAAS_TRANSFORMATION_PLAN.md).
